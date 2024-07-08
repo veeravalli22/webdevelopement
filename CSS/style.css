@@ -1,0 +1,177 @@
+boby{
+	margin: 0;
+}
+.mainDiv{
+	
+	width: 90%;
+	margin: 30px auto;
+ 
+}
+.hiii{
+	height: 550px;
+	width:99%;
+	background-color: pink;
+	background-image: url(../images/b.png);
+	padding: calc(100px - 3px);
+
+}
+.mainDiv p{
+	color: white;
+	font-size: 40px;
+
+}
+.s-1{
+	width: 50%;
+	color: white;
+	float: left;
+
+}
+.s-1 b{
+	font-size: 10px;
+}
+.button{
+	background: #05d1f5;
+	display: inline-block;
+	padding: 5px;
+	border-radius: 10px;
+	color: white;
+	font-size: 5px;
+	float: left;
+
+}
+.s-2{
+	float: right;
+}
+.key{
+	text-align: center;
+	padding-top: 40px;
+	font-size: 30px;
+}
+.b{
+	font-size: 10px;
+}
+.fp{
+	width: 80%;
+	margin: 0 auto;
+	*/border: 1px solid green;
+	height: 400px;
+}
+.sub-1{
+	width: 50%;
+	padding-left: 130px;
+	float: left;
+}
+.sub-2{
+	width: 50%;
+	*/border: 1px solid green;
+
+	*/background: #05d1f5;
+	*/padding: 20px;
+	float: right;
+	height: 350px;
+	padding-top: 10px;
+
+
+
+}
+.su-1{
+	*/border: 1px solid red;
+	height: 175px;
+}
+.su-2{
+	*/border: 1px solid violet;
+	height: 175px;
+}
+.d-1{
+    width: 49%;
+    height: 170px;
+    background-image: url(../images/d.png);
+    */border: 1px solid green;
+    */background-color: pink;
+    float: left;
+    padding: 30px 30px 30px 65px;
+    color: white;
+    
+}
+.d-2{
+	width: 49%;
+	height: 170px;
+	background-image: url(../images/Ts.png);
+	float: right;
+    padding: 30px 30px 30px 68px;
+    color: white;
+     
+}
+.d-2 b{
+	padding-left: 10px;
+}
+.d-3{
+	width: 49%;
+    height: 170px;
+    background-image: url(../images/de.png);
+   */ border: 1px solid green;
+    */background-color: pink;
+    float: left;
+    margin-top: 5px;
+    padding: 30px 30px 30px 65px;
+    color: white;
+}
+.d-3 b{
+	padding-left: 10px;
+}
+.Dd-4{
+	width: 49%;
+	height: 170px;
+	background-image: url(../images/rg.png);
+	float: right;
+    padding: 30px 30px 30px 65px;
+    color: white;
+    margin-top: 5px;
+     
+}
+.Dd-4 img{
+	padding-left: 10px;
+}
+.dv{
+	width: 70%;
+	float: left;
+}
+.data{
+	height: 600px;
+	width:99%;
+	background-color: pink;
+	background-image: url(../images/b.png);
+	padding: calc(100px - 3px);
+	color: white;
+
+}
+.data img{
+	height: 300px;
+}
+.GS{
+	width: 30%;
+	float: right;
+}
+.GS p{
+	font-size: 10px;
+	padding-left: 30px;
+}
+.IT{
+	width: 50%;
+	float: left;
+	padding: 100px;
+	color: black;
+
+
+}
+.IT h2{
+	color: #17cbe3;
+}
+.IT b{
+	font-size: 10px;
+}
+
+
+
+
+
