@@ -146,7 +146,7 @@ boby{
 
 }
 .data img{
-	height: 300px;
+	height: 400px;
 }
 .GS{
 	width: 30%;
@@ -155,6 +155,10 @@ boby{
 .GS p{
 	font-size: 10px;
 	padding-left: 30px;
+}
+.it-so{
+	*/border: 1px solid red;
+	height: 400px;
 }
 .IT{
 	width: 50%;
@@ -168,10 +172,162 @@ boby{
 	color: #17cbe3;
 }
 .IT b{
+	font-size: 12px;
+}
+.LM{
+	background: #17cbe3;
+	display: inline-block;
+	border-radius: 20px;
+	padding: 10px;
+	color: white;
+	letter-spacing: 2px;
+	padding: 10px;
+}
+.LT{
+	width: 50%;
+	float: right;
+
+}
+.DE-AI{
+	padding: 50px;
+	background-image: url(../images/b.png);
+	height: 900px;
+	*/background-image: url(../images/Dea.png);
+}
+.DE-AI img{
+	height: 400px;
+	width: 100%;
+}
+.dea-1{
+	height: 400px;
+	width: 100%;
+	margin-left: 2px;
+}
+.IT-SOLU{
+	*/border: 1px solid red;
+	height: 400px;
+}
+.IT-P{
+	width: 50%;
+	float: left;
+	padding-left: 100px;
+
+}
+.solu{
+	width: 50%;
+	float: right;
+	padding: 100px;
+	color: black;
+}
+.solu h2{
+	color: #17cbe3;
+}
+.solu b{
+	font-size: 12px;
+}
+.w{
+	background: #a709db;
+	height: 400px;
+	margin-left: 200px;
+	
+	*/padding-right: 20px;
+	*/margin-right: 20px;
+	
+}
+.web{	
+	height: 950px;
+	width:99%;
+	background-color: pink;
+	background-image: url(../images/b.png);
+	padding: calc(100px - 3px);
+}
+.web img{
+	height: 600px;
+
+}
+.w-2{
+	*/height: 600px;
+	*/height: 400px;
+	*/width: 100%;
+	*/margin-left: 2px;
+}
+.w-2 img{
+	height: 200px;
+	padding-left: 70px;
+}
+.wep{
+	height: 400px;
+	*/border: 1px solid red;
+}
+.w-s1{
+	width: 50%;
+	padding: 60px;
+	padding-left: 150px;
+	float: left;
+}
+.w-s2{
+	width: 50%;
+	float: right;
+	padding: 60px;
+
+
+}
+.get{
+	height: 500px;
+	width:99%;
+	background-color: pink;
+	background-image: url(../images/b.png);
+	padding: calc(100px - 3px);
+	text-align: center;
+	color: white;
+	padding-top: 50px;
+
+}
+.get p{
+	font-size: 15px;
+}
+.g-s{
+	*/border: 1px solid red;
+	height: 200px;
+	width: 80%;
+	*/margin-left: 100px;
+	margin: 0 auto;
+	padding-top: 20px;
+	color: black;
+
+}
+.g-s1{
+	*/border: 1px solid green;
+	height: 200px;
+	width: 30%;
+	float: left;
+	margin-left: 20px;
+	background-color: white;
+}
+.g-s2{
+	*/border: 1px solid red;
+	height: 200px;
+	width: 30%;
+	float: left;
+	margin-left: 20px;
+	background-color: white;
+}
+.g-s3{
+	*/border: 1px solid red;
+	height: 200px;
+	width: 30%;
+	float: left;
+	margin-left: 20px;
+	background-color: white;
+}
+.g-s img{
+	padding-top: 15px;
+}
+.g-b{
 	font-size: 10px;
 }
 
 
 
 
-
+	 
